@@ -1,0 +1,20 @@
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.exe
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.pdb
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.xml
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.exe
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.xml
+c:\users\pc\documents\visual studio 2013\Projects\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.pdb
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.exe.config
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.exe
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.pdb
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\bin\Debug\EjercicioArray1.xml
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.vbprojResolveAssemblyReference.cache
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.Resources.resources
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.exe
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.xml
+C:\Users\loren\source\repos\EjercicioArray1\EjercicioArray1\obj\Debug\EjercicioArray1.pdb
